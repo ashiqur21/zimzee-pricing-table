@@ -83,7 +83,8 @@
     .desktop-table {
         display: none;
     }
-    .mobile-table{
+
+    .mobile-table {
         display: block !important
     }
 
@@ -115,12 +116,14 @@
     .mobile-price-description br {
         display: none;
     }
+
     .mobile-table-text .mobile-row-title {
         font-size: 14px;
         color: #5d5d5d;
         text-align: center;
         padding: 10px 20px;
     }
+
     .mobile-table-text {
         text-align: center;
         font-size: 10px;
